@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="order.xsd">
+  <OrderNo>OrderNo</OrderNo>
+  <OrderDateTime>2001-12-31T12:00:00</OrderDateTime>
+  <CustomerName>CustomerName</CustomerName>
+  <OrderItems>
+    <Produdct>
+      <ProductNo>ProductNo</ProductNo>
+      <ProductName>ProductName</ProductName>
+      <Price>0.0</Price>
+      <Amount>0</Amount>
+    </Produdct>
+  </OrderItems>
+</Order>
